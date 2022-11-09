@@ -2,7 +2,8 @@
 
 ## Part 1 - What do I have to Work with?
 * Trace through the code in WeatherStation and make sure you understand what you have to work with!
-* Look at the Display.java **Interface** and in your own words, write below why you think were are declaring an interface.
+* Look at the Display.java **Interface** and in your own words, write below why you think we are declaring an interface.
+* We are declaring an interface so that implement generic objects.
 
 ## Part 2 - Create 3 Classes that **Implement** Display.java
 ![Program Design](images/uml_model.png)
