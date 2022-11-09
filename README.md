@@ -4,6 +4,7 @@
 * Trace through the code in WeatherStation and make sure you understand what you have to work with!
 * Look at the Display.java **Interface** and in your own words, write below why you think were are declaring an interface.
 
+By declaring an interface you are able to call the declared methods from multiple classes without needing to use inheritance.
 ## Part 2 - Create 3 Classes that **Implement** Display.java
 ![Program Design](images/uml_model.png)
 * Using the UML model and the following descriptions, make 3 different display classes.
