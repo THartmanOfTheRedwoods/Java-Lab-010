@@ -66,4 +66,5 @@ public class Rational {
         Rational rationalNumber2 = new Rational(1, 5); //addition test
         System.out.println("Sum of rational numbers: " + rationalNumber1.add(rationalNumber2));
     }
+
 }
