@@ -39,6 +39,7 @@ Part 1: Practicing Defining Classes
         * This method should be a pure method (it should not modify the instance variables of the object on which it is invoked).
         * Hint: Finding the GCD takes only a few lines of code.
         * Search the web for **"Euclidean algorithm"**.
+            * [GCD Euclidean Algorithm](https://redwoods.us-west-2.instructuremedia.com/embed/a9ac7a12-f15a-41e3-a1ec-fbe21bcc3ab6)
     * Write an **instance method called add** that takes a Rational number as an argument, adds it to this, and returns a new Rational object.
         * There are several ways to add fractions. You can use any one you want, but you should make sure that the result of the operation is reduced so that the numerator and denominator have no common divisor (other than 1).
 
